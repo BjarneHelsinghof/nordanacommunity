@@ -1,0 +1,76 @@
+/*
+Theme Name: Responsive Nordana
+Theme URI: https://cyberchimps.com/responsive/
+Template: responsive
+Author: CyberChimps
+Author URI: https://cyberchimps.com
+Description: Responsive is a fast, lightweight, &amp; fully customizable WordPress theme, which offers 100+ free ready-to-use Elementor &amp; WordPress Block templates for websites of all types (blog, WooCommerce, Portfolio, Podcast, Startups, Consultancy, Education, LMS, Auctions, and more). The theme is easy to customize and you can create blog or eCommerce websites using a user-friendly drag and drop interface. It's optimized for SEO with support for Schema.org microdata, fast loading speed, and responsive layout designs. Responsive works with all popular WordPress plugins like WooCommerce, bbPress, LearnDash, BuddyPress, etc. Responsive theme is fully compatible with popular page builders like Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. It comes with ready to import websites: Built with Elementor &amp; full site editing(FSE) features, it's an ideal theme to quickly launch a fully functional website. Features: #Responsive #Starter Templates #WooCommerce Ready #Import Pre-Built Elementor Websites (Elementor &amp; Block editor) #LearnDash LMS Ready #RTL support #Translations Ready #WPML Compatible #Retina Logo #Layout Settings #Transparent Headers #Blog Layouts #Unlimited Colors. Check out the list of all 100+ Responsive Starter Templates: https://cyberchimps.com/wordpress-themes/
+Tags: blog,grid-layout,one-column,two-columns,left-sidebar,right-sidebar,custom-background,custom-header,custom-colors,custom-logo,custom-menu,editor-style,featured-images,featured-image-header,flexible-header,footer-widgets,full-width-template,microformats,sticky-post,theme-options,threaded-comments,translation-ready,block-styles,e-commerce,portfolio,rtl-language-support,post-formats,accessibility-ready,wide-blocks
+Version: 4.7.7.1670169593
+Updated: 2022-12-04 15:59:53
+
+*/
+
+.site-header {
+    background-color: #FAEBD7;
+}
+
+.site-content {
+    background-color: #A68966;
+}
+
+.site-footer {
+    background-color: #FAEBD7;
+    color: black;
+}
+
+.boks1,
+.boks2,
+.boks3,
+.boks4,
+.boks5,
+.boks6,
+.boks7 {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.homepagetitel {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.homepagebeskrivelse {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.linktilhjemmeside {
+    background-color: cornsilk;
+}
+
+.linktilhjemmeside:active {
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.disclaimer {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.privacyheader {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.privacycontent {
+    color: black;
+    background-color: azure;
+}
+
+.groupmember {
+    color: black;
+    background-color: azure;
+    font-family: Georgia, serif;
+}
